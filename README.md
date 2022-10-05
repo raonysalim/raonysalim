@@ -1,3 +1,3 @@
 ## Olá
 - 🔭 Não trabalho na area ainda 
-- 🌱 Atualmente estou Node
+- 🌱 Atualmente estou estudando Node, SQL e NoSQL
